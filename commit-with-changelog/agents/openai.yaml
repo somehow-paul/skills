@@ -1,0 +1,4 @@
+interface:
+  display_name: "Commit with Changelog"
+  short_description: "Help with module-based commits and UX changelog updates"
+  default_prompt: "Use $commit-with-changelog to split changes by module, commit safely, and update README changelog with user-facing impacts only."
