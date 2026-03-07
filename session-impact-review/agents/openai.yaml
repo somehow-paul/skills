@@ -1,0 +1,7 @@
+interface:
+  display_name: "Session Impact Review"
+  short_description: "只审查当前会话改动并分析功能影响"
+  brand_color: "#DC2626"
+  default_prompt: "只 review 当前会话改动，输出影响范围、风险点和验证建议"
+policy:
+  allow_implicit_invocation: true
